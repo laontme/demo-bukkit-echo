@@ -1,0 +1,10 @@
+main: ${main}
+name: ${name}
+description: ${description}
+version: ${version}
+api-version: ${api}
+load: POSTWORLD
+author: ${author}
+commands:
+  echo:
+    description: Echo your arguments
